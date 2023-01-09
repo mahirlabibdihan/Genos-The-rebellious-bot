@@ -14,13 +14,8 @@ Watch the [gameplay](https://www.youtube.com/watch?v=nlLvq-DeTNM) on youtube.
 
 ### Play the game
 
-> Left - A
-> Right - D
-> Jump - W or Right click
-> Double jump - Jump again after jumping
-> Shoot laser - left click
-> Next instruction - Space
-> Skip instructions - Tab
+> Left - A | Right - D | Jump - W or Right click | Double jump - Jump again after jumping | Shoot laser - left click | Next instruction - Space | Skip instructions - Tab
+
 > The game should be played in landscape fullscreen mode for better experience.
 
 - [Play online](https://genos-the-rebellious-bot.netlify.app/)
